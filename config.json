@@ -1,0 +1,6 @@
+{
+    "delay_min": 1,
+    "delay_max": 3,
+    "name_prefix": "user_",
+    "name_length": 8
+}
